@@ -221,7 +221,6 @@
             this.varokeytextBox.Name = "varokeytextBox";
             this.varokeytextBox.Size = new System.Drawing.Size(271, 23);
             this.varokeytextBox.TabIndex = 3;
-            this.varokeytextBox.Text = "cd605a0ef87747e498b943a621d096a8";
             // 
             // label3
             // 
